@@ -1,0 +1,100 @@
+Project Number, Number Members, UCInetID, Name
+1 - EOAT Interface Redesign for robotic arm,4,alsonn,Nathan Feeras Alson
+1 - EOAT Interface Redesign for robotic arm,4,aedesant,Alexander Eaiden De Santiago
+1 - EOAT Interface Redesign for robotic arm,4,fand3,Derek Fan
+1 - EOAT Interface Redesign for robotic arm,4,edmundf,Edmund Feng
+2-Providing joint on robotic arm unlimited degrees of freedom,5,yingchc4,Barry Chen
+2-Providing joint on robotic arm unlimited degrees of freedom,5,enriqag1,Enrique Alberto Garcia Martinez
+2-Providing joint on robotic arm unlimited degrees of freedom,5,robinkl,Robin Kang Lee
+2-Providing joint on robotic arm unlimited degrees of freedom,5,htatsumi,Haruya Tatsumi
+2-Providing joint on robotic arm unlimited degrees of freedom,5,tujy1,Jonathan Yu-Jang Tu
+3-Incorporate joint lock mechanism on robotic arm during loss of power,4,choip5,Phillip Choi
+3-Incorporate joint lock mechanism on robotic arm during loss of power,4,gjorquer,Gabriel Ariel Martinez Jorquera
+3-Incorporate joint lock mechanism on robotic arm during loss of power,4,mmaydwel,Makala Keona Maydwell
+3-Incorporate joint lock mechanism on robotic arm during loss of power,4,oryee,Owen Russel Yee
+4-Home Lock Management System,6,cazerhab,Criss Hossam Azer Habashi
+4-Home Lock Management System,6,nthoffma,Neil Thomas Hoffmann
+4-Home Lock Management System,6,eleijabe,Edward Leija Beltran
+4-Home Lock Management System,6,lucassl1,Lucas Shoyi Lin
+4-Home Lock Management System,6,bmuramot,Brady Muramoto
+4-Home Lock Management System,6,stolld,Daniel Stoll
+5-Design Build Fly,6,tassami,Tarik Omar Assami
+5-Design Build Fly,6,dahmc,Conner Barrett Dahm
+5-Design Build Fly,6,semaanmk,Michael Kamal Semaan
+5-Design Build Fly,6,jslope,John Philip Slope
+5-Design Build Fly,6,dwsteine,Daniel William Steiner
+5-Design Build Fly,6,mengdony,Mengdong Yang
+8-Cargo Airplane,2,nalang,Nathan Alexander Lang
+8-Cargo Airplane,2,cjpark4,Christopher Park
+9-Minimally Actuated Robot Walker,5,calbrekt,Cristian Eric Albrektsen
+9-Minimally Actuated Robot Walker,5,itzelb,Itzel Beltran Montoya
+9-Minimally Actuated Robot Walker,5,mreber,Matthew Thomas Reber
+9-Minimally Actuated Robot Walker,5,jwillia7,John Williams
+9-Minimally Actuated Robot Walker,5,mayang2,Megan Arum Yang
+10-Equitable Design Solutions,4,faira,Aidan Parker Fair
+10-Equitable Design Solutions,4,yijul12,Yijun Liu
+10-Equitable Design Solutions,4,aqmaynar,Allison Quinn Maynard
+10-Equitable Design Solutions,4,psmyth,Patrick Jerome Smyth
+11a-Solar Airplane (1 quarter),2,kjharry,Kevin James Harry
+11a-Solar Airplane (1 quarter),2,gunwoos,Gun-Woo Song
+11b-Solar Airplane (2 quarter),7,bugayn,Nathan James Bugay
+11b-Solar Airplane (2 quarter),7,brendosh,Brendon Sun Han
+11b-Solar Airplane (2 quarter),7,cmarchio,Caterina Marchionne
+11b-Solar Airplane (2 quarter),7,mriffenb,Maximus Reo Riffenburgh
+11b-Solar Airplane (2 quarter),7,liliar6,Liliana Rodriguez
+11b-Solar Airplane (2 quarter),7,yifeiw36,Yifei Wang
+11b-Solar Airplane (2 quarter),7,xuany16,Xuan Yang
+12-Long Range Drone,6,ajlim2,Aaron Lim
+12-Long Range Drone,6,datln,Tom Nguyen
+12-Long Range Drone,6,pizanoe,Vincenzo Ethan Pizano
+12-Long Range Drone,6,darront,Darron Vinn Tran
+12-Long Range Drone,6,hsuanyw,Jenny Wang
+12-Long Range Drone,6,bilinw,Kristy Wu
+14-Planar Laser Induced Fluorescence (PLIF) System for the Study of High-Speed Reaction Flows,5,marcelc2,Marcelo Antonio Castaneda
+14-Planar Laser Induced Fluorescence (PLIF) System for the Study of High-Speed Reaction Flows,5,camillcm,Camille Martinez Chihak
+14-Planar Laser Induced Fluorescence (PLIF) System for the Study of High-Speed Reaction Flows,5,overhola,Ashlynn Overholser
+14-Planar Laser Induced Fluorescence (PLIF) System for the Study of High-Speed Reaction Flows,5,mwross,Michael William Ross
+14-Planar Laser Induced Fluorescence (PLIF) System for the Study of High-Speed Reaction Flows,5,tranvn3,Vince Tran
+15-Magnetic attachment for wireless power transfer in Drones,5,fczapla,Franciszek Noel Czapla
+15-Magnetic attachment for wireless power transfer in Drones,5,wilfrep,Wilfredo Perez
+15-Magnetic attachment for wireless power transfer in Drones,5,bridgedr,Bridge Darrah Robinson
+15-Magnetic attachment for wireless power transfer in Drones,5,tranwt1,William Trong Duc Tran
+15-Magnetic attachment for wireless power transfer in Drones,5,iweise,Isaac Joaquin Weise
+17-Wearable sensors for human gait assessment,5,bawerkam,Brett Ethan Awerkamp
+17-Wearable sensors for human gait assessment,5,jchong6,Joshua Chong
+17-Wearable sensors for human gait assessment,5,kmishak,Kyrollos Matthew Ishak
+17-Wearable sensors for human gait assessment,5,junxiz2,Junxian Zhu
+17-Wearable sensors for human gait assessment,5,zijianz9,Zijian Zhu
+18-Learning to optimally collect data from expensive experiments,4,cli58,Chenghao Li
+18-Learning to optimally collect data from expensive experiments,4,houyang1,Haoran Ouyang
+18-Learning to optimally collect data from expensive experiments,4,huayit1,Huayi Tang
+18-Learning to optimally collect data from expensive experiments,4,fanlianz,Fanlian Zeng
+19a-Golf Ball Launcher with Automated Targeting,5,wenhanj1,Wenhan Ji
+19a-Golf Ball Launcher with Automated Targeting,5,huynl1,Huy Nhat Le
+19a-Golf Ball Launcher with Automated Targeting,5,kmardiro,Kevin Garo Volz Mardirossian
+19a-Golf Ball Launcher with Automated Targeting,5,arielled,Arielle Bernadette Nava
+19a-Golf Ball Launcher with Automated Targeting,5,zikangw1,Zikang Wu
+19b-Golf Ball Launcher with Automated Targeting,5,lalmasha,Laith Basel Almashat
+19b-Golf Ball Launcher with Automated Targeting,5,anthona5,Anthony Alvarez
+19b-Golf Ball Launcher with Automated Targeting,5,plocsin,Patrick Gomez Locsin
+19b-Golf Ball Launcher with Automated Targeting,5,pragerg,Gil Jared Prager
+19b-Golf Ball Launcher with Automated Targeting,5,mpunaro,Michael Vincent Punaro
+19c-Golf Ball Launcher with Automated Targeting,5,tberge,Torger William Berge
+19c-Golf Ball Launcher with Automated Targeting,5,ericlc1,Eric L. Chen
+19c-Golf Ball Launcher with Automated Targeting,5,cpcueva,Camilo P. Cueva
+19c-Golf Ball Launcher with Automated Targeting,5,mirzakhp,Parbi Mirzakhani
+19c-Golf Ball Launcher with Automated Targeting,5,jrvalle,Jose Reyes Jr. Valle
+19d-Golf Ball Launcher with Automated Targeting,6,clensang,Christian Feivel Austine Lensang
+19d-Golf Ball Launcher with Automated Targeting,6,zhuangl5,Zhuangzhuang Li
+19d-Golf Ball Launcher with Automated Targeting,6,luub4,Brian Luu
+19d-Golf Ball Launcher with Automated Targeting,6,ramosjp1,John Patrick Javier Ramos
+19d-Golf Ball Launcher with Automated Targeting,6,asardisc,Anthony Domenick Jr. Sardisco
+19d-Golf Ball Launcher with Automated Targeting,6,navarga1,Nicholas Alexander Vargas
+20-ASME Human Powered Vehicle,4,ilaganak,Angelo Kristian Nuguid Ilagan
+20-ASME Human Powered Vehicle,4,jtlasher,Jeffery Thomas Robert C T C Lasher
+20-ASME Human Powered Vehicle,4,masonca,Christian Akuto Mason
+20-ASME Human Powered Vehicle,4,sgshanno,Sophia G. Shannon
+21-Anteater Formula Racing ,4,jlibramo,John David Cruz Libramonte
+21-Anteater Formula Racing ,4,maganah,Hector Adrian Magana
+21-Anteater Formula Racing ,4,ochoaaj1,Alejandro Jaime Ochoa
+21-Anteater Formula Racing ,4,solisdl,Daniel Ladesma Solis
