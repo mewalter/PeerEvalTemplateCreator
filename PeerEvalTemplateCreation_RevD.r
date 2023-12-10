@@ -7,7 +7,9 @@ library("rstudioapi")
 library("jsonlite")
 
 
-######### NOTE: probably only works when there is only ONE group category ##################
+filenamebase <- "_151A_F23_MidQPeerEvalTemplate.xlsx"
+
+######### NOTE: only works when there is only ONE group category ... otherwise need some loops ##################
 
 # set the Canvas Class ID
 class_id <- "57452"
@@ -60,8 +62,6 @@ FourPerson <- teamdata %>% mutate(TeamNum = gsub(" ", "",str_extract(teamdata$Pr
 FivePerson <- teamdata %>% mutate(TeamNum = gsub(" ", "",str_extract(teamdata$ProjectName,"^([^-])+"))) %>% filter(NumMembers==5)
 SixPerson <- teamdata %>% mutate(TeamNum = gsub(" ", "",str_extract(teamdata$ProjectName,"^([^-])+"))) %>% filter(NumMembers==6)
 SevenPerson <- teamdata %>% mutate(TeamNum = gsub(" ", "",str_extract(teamdata$ProjectName,"^([^-])+"))) %>% filter(NumMembers==7) 
-
-filenamebase <- "_151A_F23_MidQPeerEvalTemplate.xlsx"
 
 for (i in 1:nrow(TwoPerson)/2) {
   wb <- loadWorkbook("PeerEvaluationTemplate_2Person.xlsx")
