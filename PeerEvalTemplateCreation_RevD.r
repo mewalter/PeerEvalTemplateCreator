@@ -7,12 +7,12 @@ library("rstudioapi")
 library("jsonlite")
 
 
-filenamebase <- "_151A_F23_MidQPeerEvalTemplate.xlsx"
+filenamebase <- "_151A_W24_MidQPeerEvalTemplate.xlsx"
 
 ######### NOTE: only works when there is only ONE group category ... otherwise need some loops ##################
 
 # set the Canvas Class ID
-class_id <- "57452"
+class_id <- "60836"
 
 # set some strings for the fromJSON calls
 token <- "4407~cV0DPpTSmVsjyrYteGHINIXvE76TD7RTy750ASCHFUfj6yqMONUXOqlgWsoPkIXt" #Authorization token. Set this up in your Canvas profile
@@ -55,6 +55,8 @@ DataDir <- paste0(BaseDir,"/TeamTemplates/")
 #setwd(DataDir)
 
 #data = read.csv("GroupsWithNames.csv", header = TRUE, stringsAsFactors = FALSE)
+
+write.csv(teamdata, file = "GroupsWithNames.csv",row.names=FALSE)
 
 TwoPerson <- teamdata %>% mutate(TeamNum = gsub(" ", "",str_extract(teamdata$ProjectName,"^([^-])+"))) %>% filter(NumMembers==2) 
 ThreePerson <- teamdata %>% mutate(TeamNum = gsub(" ", "",str_extract(teamdata$ProjectName,"^([^-])+"))) %>% filter(NumMembers==3) 
