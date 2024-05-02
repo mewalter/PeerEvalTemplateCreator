@@ -6,13 +6,15 @@ library("lubridate")
 library("rstudioapi")
 library("jsonlite")
 
+# rm(list=ls())         # remove all global environment variables
 
-filenamebase <- "_151B_W24_FinalPeerEvalTemplate.xlsx"
+
+filenamebase <- "_151B_Sp24_FinalPeerEvalTemplate.xlsx"
 
 ######### NOTE: only works when there is only ONE group category ... otherwise need some loops ##################
 
 # set the Canvas Class ID
-class_id <- "60836"
+class_id <- "63712"
 
 # set some strings for the fromJSON calls
 token <- "4407~cV0DPpTSmVsjyrYteGHINIXvE76TD7RTy750ASCHFUfj6yqMONUXOqlgWsoPkIXt" #Authorization token. Set this up in your Canvas profile
@@ -43,14 +45,7 @@ for (i in 1:nrow(group_info)) {
 
 
 
-# rm(list=ls())
-
-# a way to read in lines but then skip rows of your choosing
-#all_content = readLines("file.csv")
-#skip_second = all_content[-2]
-
 BaseDir <- setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
-#BaseDir <- setwd("~/pCloudDrive/RProjects/PeerEvalTeamplateCREATION")
 DataDir <- paste0(BaseDir,"/TeamTemplates/")
 #setwd(DataDir)
 
@@ -210,10 +205,6 @@ writeData(wb2, "Cars", x,
 )
 
 
-
-
-
-#####################################################################################
 ## Save workbook
 ## Open in excel without saving file: openXL(wb)
 # }
